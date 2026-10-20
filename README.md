@@ -1,0 +1,2 @@
+# SkyNet-idiomas
+Idiomas
