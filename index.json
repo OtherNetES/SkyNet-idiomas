@@ -1,5 +1,6 @@
 {
   "languages": [
     { "code": "ro", "name": "Română" }
+    { "code": "po" , "name" :"Português" }
   ]
 }
