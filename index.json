@@ -1,6 +1,12 @@
 {
   "languages": [
-    { "code": "ro", "name": "Română" },
-    { "code": "po" , "name": "Português" }
+    {
+      "code": "ro",
+      "name": "Română"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    }
   ]
 }
