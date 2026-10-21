@@ -1,8 +1,5 @@
 {
-  "meta": {
-    "code": "po",
-    "name": "Português"
-  },
+  "meta": {"code":"po","name":"Português"},
   "installer": {
     "app_title": "Instalação do SkyNet",
     "tagline": "SEGURO · LIGAR · CONTROLAR",
